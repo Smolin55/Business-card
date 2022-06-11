@@ -16,12 +16,17 @@
      target="_blank">Instagram</a></li>
      <li><a href="https://m.facebook.com/profile.php/" 
      target="_blank">facebook</a></li>
-     <li><a href="https://google.com/borsmolin@gmail.com/" 
-     target="_blank">Gmail</a></li>
-     <li><a href="https://m.vk.com/id289277592/" 
+      <li><a href="https://m.vk.com/id289277592/" 
      target="_blank">Vk</a></li>
 <hr />
-  <h2> Мои кантакты. </h2>
+   <h2> Мои контакты. </h2>
+     <ul>
+      <h3>boborsmolin@gmail.com</h3>
+
+
+
+
+
 
 
 
