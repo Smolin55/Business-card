@@ -19,7 +19,8 @@
      <li><a href="https://m.vk.com/id289277592/" 
      target="_blank">Vk</a></li>
 <hr />
-![IMG_20220515_181342](https://user-images.githubusercontent.com/105316196/173207473-d99be712-98ab-447f-8f1a-aed0339b829e.jpg)
+![IMG_20220507_015215_463](https://user-images.githubusercontent.com/105316196/173207495-d35a8b93-fdab-4aae-b6fa-9ad532dadcc9.jpg)
+
 
 
 
