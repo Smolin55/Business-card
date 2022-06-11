@@ -6,13 +6,20 @@
       <h1> Boris Smolin </h1>
       <hr />
        <br />
-     <litle> Украина 🇺🇦 </litle>
-     <br />
-     <litle> Запорожье </litle>
-     <br />
- # The largest heading
- ## The second largest heading
- ###### The smallest heading
+     <h1> Украина 🇺🇦 </h1>
+     <h1> г. Запорожье </h1>
+  <br />
+- Instagram 
+- Telegram 
+- Vk
+     
+     
+     
+
+
+
+
+
      
      
      
