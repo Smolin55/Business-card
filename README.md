@@ -19,7 +19,7 @@
      <li><a href="https://m.vk.com/id289277592/" 
      target="_blank">Vk</a></li>
 <hr />
-![IMG_20220507_015215_463](https://user-images.githubusercontent.com/105316196/173207495-d35a8b93-fdab-4aae-b6fa-9ad532dadcc9.jpg)
+
 
 
 
