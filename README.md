@@ -20,8 +20,12 @@
      target="_blank">Vk</a></li>
 <hr />
    <h2> Мои контакты. </h2>
-     <ul>
-      <h3>boborsmolin@gmail.com</h3>
+
+- borsmolin@gmail.com 
+- +380934106047
+- +380997943551
+
+
 
 
 
