@@ -10,6 +10,7 @@
      <h1> г. Запорожье </h1>
     <p><h3> Instagram </h3></p>
     <p><h3> Telegram </h3></p>
+    <p><h3> Vk </h3></p>
 
 
 
