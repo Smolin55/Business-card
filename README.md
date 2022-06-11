@@ -9,12 +9,16 @@
      <h1> Украина 🇺🇦 </h1>
      <h1> г. Запорожье </h1>
      <h4> 17.10.1980 </h4>
-     <br />
-    <p><h3> Instagram </h3></p>
-    <p><h3> Telegram </h3></p>
-    <p><h3> WhatsApp </h3></p>
-    <p><h3> Vaiber </h3></p>
-    <p><h3> Vk </h3></p>
+   <hr />
+   <h2> Мои социальные сети </h2>
+    <ul>
+     <li><a href="https://www.instagram.com/borissmolin/"target="_blank">Instagram</a></li>
+    
+
+
+
+
+
     
 
 
