@@ -4,16 +4,23 @@
     <body>
       <meta charset="UTF-8"/>
       <h1> Boris Smolin </h1>
-      <hr />
+<hr />
        <br />
      <h1> Украина 🇺🇦 </h1>
      <h1> г. Запорожье </h1>
      <h4> 17.10.1980 </h4>
-   <hr />
+<hr />
    <h2> Мои социальные сети </h2>
     <ul>
-     <li><a href="https://www.instagram.com/borissmolin/"target="_blank">Instagram</a></li>
-    
+     <li><a href="https://www.instagram.com/borissmolin/"
+     target="_blank">Instagram</a></li>
+     <li><a href="https://m.facebook.com/profile.php/" 
+     target="_blank">facebook</a></li>
+     <li><a href="https://m.vk.com/id289277592/" 
+     target="_blank">Vk</a></li>
+<hr size="5"noshade><widthe="300"color"red"</size></hr>
+     
+     
 
 
 
