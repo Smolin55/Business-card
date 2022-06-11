@@ -16,6 +16,8 @@
      target="_blank">Instagram</a></li>
      <li><a href="https://m.facebook.com/profile.php/" 
      target="_blank">facebook</a></li>
+     <li><a href="https://mail.google.com/mail/mu/mp/512/#mn/" 
+     target="_blank">Gmail</a></li>
      <li><a href="https://m.vk.com/id289277592/" 
      target="_blank">Vk</a></li>
 <hr />
