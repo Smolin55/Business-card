@@ -6,6 +6,6 @@
       <litle>Boris Smolin</litle>
      </head>
     </body>
-    <hr size="5"noshade widthe="100"color"red"/>
-    <br />
-   <
+    <hr />
+  
+
