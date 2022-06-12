@@ -24,7 +24,7 @@
       <li><a href="borsmolin@gmail.com"/
       target="_blank">Gmail</a></li>
       <li><a href="+380 934106047"/
-      target="_blank">Телефон</a></li>
+      target="_blank">+380 934106047</a></li>
      
      
 
