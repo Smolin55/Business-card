@@ -21,10 +21,11 @@
 <hr />
    <h2> Мои контакты. </h2>
      <br />
-      <li><a href="borsmolin@gmail.com"/
-      target="_blank">Gmail</a></li>
-      <li><a href="+380 934106047"/
-      target="_blank">+380 934106047</a></li>
+      <li> borsmolin@gmail.com </li>
+      <li> +380 934106047 </li>
+
+
+
      
      
 
