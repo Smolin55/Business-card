@@ -20,11 +20,18 @@
      target="_blank">Vk</a></li>
 <hr />
    <h2> Мои контакты. </h2>
+     <br />
+      <li><a href="borsmolin@gmail.com"/
+      target="_blank">Gmail</a></li>
+      <li><a href="+380 934106047"/
+      target="_blank">Телефон</a></li>
+     
+     
 
-- borsmolin@gmail.com 
-- +380 934106047
-- +380 997943551
- <hr />
+
+
+
+
 
 
 
