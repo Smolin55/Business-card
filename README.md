@@ -3,7 +3,7 @@
   <head>
     <body>
       <meta charset="UTF-8"/>
-      <h1> Boris Smolin </h1>
+      <h2> Boris Smolin </h2>
 <hr />
        <br />
      <h2> Украина 🇺🇦 </h2>
@@ -24,6 +24,7 @@
      <li>borsmolin@gmail.com</li>
      <li>+380 934106047</li>
      <li>+380 997943551</li>
+<hr />
 
 
 
