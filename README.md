@@ -3,14 +3,14 @@
   <head>
     <body>
       <meta charset="UTF-8"/>
-      <h2> Boris Smolin </h2>
+      <h3> Boris Smolin </h3>
 <hr />
-       <br />
-     <h2> Украина 🇺🇦 </h2>
-     <h2> г. Запорожье </h2>
-     <h5> 17.10.1980 </h5>
+    <br /> 
+     <h4> Украина 🇺🇦 </h4>
+     <h4> г. Запорожье </h4>
+     <h6> 17.10.1980 </h6>
 <hr />
-   <h2>Мои социальные сети</h2>
+   <h3>Мои социальные сети</h3>
     <ul>
      <li><a href="https://www.instagram.com/borissmolin/"
      target="_blank">Instagram</a></li>
@@ -19,7 +19,7 @@
       <li><a href="https://m.vk.com/id289277592/" 
      target="_blank">Vk</a></li>
 <hr />
-   <h2>Мои контакты.</h2>
+   <h3>Мои контакты.</h3>
     <br />
      <li>borsmolin@gmail.com</li>
      <li>+380 934106047</li>
