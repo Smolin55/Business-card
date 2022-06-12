@@ -20,11 +20,11 @@
      target="_blank">Vk</a></li>
 <hr />
    <h2> Мои контакты. </h2>
-    
+
 - borsmolin@gmail.com 
 - +380 934106047
 - +380 997943551
-<hr />
+ <hr />
 
 
 
