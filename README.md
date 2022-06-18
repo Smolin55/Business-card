@@ -21,8 +21,8 @@
 <hr />
    <h3>Мои контакты.</h3>
     <br />
-     <p><abbr title="borsmolin@gmail.com">Gmail</abbr></p>
-     <p><abbr title="+380 934106047">Pfone</abbr></p>
+     <li>borsmolin@gmail.com</li>
+     <li>+380 934106047</li>
      <li>+380 997943551</li>
 <hr />
 
