@@ -21,7 +21,7 @@
 <hr />
    <h3>Мои контакты.</h3>
     <br />
-     <li><a hre="https://mail.google.com/mail/mu/mp/512/#mn/"target="_blank">Gmail</a></li>
+     <li><a href="https://mail.google.com/mail/mu/mp/512/#mn/"target="_blank">Gmail</a></li>
      <li>+380 934106047</li>
      <li>+380 997943551</li>
 <hr />
