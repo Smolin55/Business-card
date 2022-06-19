@@ -21,7 +21,7 @@
 <hr />
    <h3>Мои контакты.</h3>
     <br />
-     <li><a href="gmailto:borsmolin@gmail.com">Gmail</a></li>
+     <li><a href="gmailto:http://gmail.com/borsmolin@gmail.com">Gmail</a></li>
      <li>+380 934106047</li>
      <li>+380 997943551</li>
 <hr />
