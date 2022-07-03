@@ -14,7 +14,7 @@
     <ul>
      <li><a href="https://www.instagram.com/borissmolin/"
      target="_blank">Instagram</a></li>
-     <li><a href="https://m.facebook.com/profile.php/" 
+     <li><a href="https://m.facebook.com/profile.php?ref=bookmarks"
      target="_blank">facebook</a></li>
       <li><a href="https://m.vk.com/id289277592/" 
      target="_blank">Vk</a></li>
