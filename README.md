@@ -17,8 +17,9 @@
      target="_blank">Instagram</a></li>
      <li><a href="https://m.facebook.com/profile.php?ref=bookmarks"
      target="_blank">facebook</a></li>
-     <li><a href="https://t.me/Smolin_Boris"target="_blank">Telegram</a></li>
-      <li><a href="https://m.vk.com/id289277592/" 
+     <li><a href="https://t.me/Smolin_Boris"
+     target="_blank">Telegram</a></li>
+     <li><a href="https://m.vk.com/id289277592/" 
      target="_blank">Vk</a></li>
 <hr />
    <h3>Мои контакты.</h3>
