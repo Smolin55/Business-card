@@ -1,4 +1,5 @@
-![image-0-02-04-679ee28ec60b59f65796d50988ea9059953c382a19395b52c16b58820647b37c-V~2](https://user-images.githubusercontent.com/105316196/177011182-9e4fc169-f842-48ae-aa77-761e183574d9.jpg)
+![IMG_20220708_103156](https://user-images.githubusercontent.com/105316196/177994893-d69a083d-3c1e-4ce2-b343-e53af6db237a.jpg)
+
  <html>
   <head>
     <body>
@@ -16,6 +17,7 @@
      target="_blank">Instagram</a></li>
      <li><a href="https://m.facebook.com/profile.php?ref=bookmarks"
      target="_blank">facebook</a></li>
+      <li><a href="https://t.me/Smolin_Boris/"target="_blank">Telegram</a></li>
       <li><a href="https://m.vk.com/id289277592/" 
      target="_blank">Vk</a></li>
 <hr />
