@@ -15,12 +15,24 @@
     align-items: center;
     min-height: 100vh;
     background: #fff;
-   } 
+   }
+   .card {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    background: #333;
+    transition: 0.5s;
+   }
   </style>
   <head>
     <body>
       <meta charset="UTF-8"/>
-      <h3> Boris Smolin </h3>
+     <div class="card">
+      <h2>Boris Smolin</h2>
+      <h2>Украина 🇺🇦</h2>
+      <h2>г. Запорожье</h2>
+      <p>17.10.1980</p>
+     </div>
 <hr />
     <br /> 
      <h3> Украина 🇺🇦 </h3>
@@ -43,7 +55,6 @@
      <li>+380 934106047</li>
      <li>+380 997943551</li>
 <hr />
- </html>
 
 
 
