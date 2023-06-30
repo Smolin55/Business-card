@@ -21,7 +21,15 @@
     width: 600px;
     height: 400px;
     background: #333;
-    transition: 0.5s;
+   }
+   .card h2 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.75em;
+    color: #fff;
+    margin-bottom: 20px;
    }
   </style>
   <head>
