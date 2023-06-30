@@ -2,6 +2,8 @@
 ![IMG_20220708_103156](https://user-images.githubusercontent.com/105316196/177994893-d69a083d-3c1e-4ce2-b343-e53af6db237a.jpg)
 <hr />
  <html>
+  <head>
+      <meta charset="UTF-8"/>
   <style>
    * {
     margin: 0;
@@ -18,11 +20,15 @@
    }
    .card {
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 600px;
     height: 400px;
+    border-radius: 10px;
     background: #333;
    }
-   .card h2 {
+   .card h2 p {
     position: relative;
     display: flex;
     justify-content: center;
@@ -32,22 +38,15 @@
     margin-bottom: 20px;
    }
   </style>
-  <head>
-    <body>
-      <meta charset="UTF-8"/>
+ </head>
+   <body> 
      <div class="card">
       <h2>Boris Smolin</h2>
       <h2>Украина 🇺🇦</h2>
       <h2>г. Запорожье</h2>
       <p>17.10.1980</p>
      </div>
-<hr />
-    <br /> 
-     <h3> Украина 🇺🇦 </h3>
-     <h4> г. Запорожье </h4>
-     <h6> 17.10.1980 </h6>
-<hr />
-   <h3>Мои социальные сети</h3>
+     <h2>Мои социальные сети</h2>
     <ul>
      <li><a href="https://www.instagram.com/borissmolin/"
      target="_blank">Instagram</a></li>
@@ -63,6 +62,9 @@
      <li>+380 934106047</li>
      <li>+380 997943551</li>
 <hr />
+    </ul>
+   </body>
+ </html>
 
 
 
