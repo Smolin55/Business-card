@@ -1,5 +1,3 @@
-[IMG_20220708_103156](https://user-images.githubusercontent.com/105316196/177994893-d69a083d-3c1e-4ce2-b343-e53af6db237a.jpg)
-<hr />
  <html>
   <head>
       <meta charset="UTF-8"/>
@@ -28,10 +26,10 @@
     position: relative;
     display: flex;
     justify-content: center;
+    padding: 10px;
     align-items: center;
     font-size: 1.75em;
     color: #fff;
-    margin-bottom: 20px;
    }
   </style>
  </head>
@@ -42,6 +40,7 @@
       <h2>г. Запорожье</h2>
       <p>17.10.1980</p>
      </div>
+   <center>
      <h2>Мои социальные сети</h2>
     <ul>
      <li><a href="https://www.instagram.com/borissmolin/"
@@ -57,6 +56,7 @@
      <li>borsmolin@gmail.com</li>
      <li>+380 934106047</li>
      <li>+380 997943551</li>
+   </center>
 <hr />
     </ul>
    </body>
